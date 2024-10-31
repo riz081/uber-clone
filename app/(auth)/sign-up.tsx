@@ -80,6 +80,7 @@ const SignUp = () => {
           </Link>
 
           {/* Verification Modal */}
+          
         </View>
       </View>
     </ScrollView>
